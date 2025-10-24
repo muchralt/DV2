@@ -1,0 +1,10 @@
+Five Desgin Sheets: https://drive.google.com/file/d/1lK8nkgaq1iM-E5D4cSw8-wdN9jVv0i8h/view?usp=sharing 
+How to use / view this visualization:
+
+Download the entire folder and unzip it.
+
+Open a local web server (e.g. via python -m http.server 5500)
+
+Open http://localhost:5500/index.html in your browser.
+
+All charts load data from the /data folder — so everything should run offline, without external links.
